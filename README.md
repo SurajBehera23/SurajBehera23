@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **learning selenium with python.**
 
-- 🌱 I’m currently learning **learning selenium.**
+- 🌱 I’m currently learning **selenium.**
 
 - 📫 How to reach me **surajkumarbehera23@gmail.com**
-
-- ⚡ Fun fact **I am a good fishkeeper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
