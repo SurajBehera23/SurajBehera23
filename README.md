@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj.</h1>
 <h3 align="center">A passionate Software Tester.</h3>
 
-- 🔭 I’m currently working on **learning selenium with python.**
+- 🔭 I’m currently working on **learning Web UI automation**
 
 - 🌱 I’m currently learning **selenium.**
 
