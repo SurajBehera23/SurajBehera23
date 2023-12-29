@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">A passionate Software tester from India</h3>
+<h3 align="center">A passionate Software tester.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbehera93&label=Profile%20views&color=0e75b6&style=flat" alt="surajbehera93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajbehera93&label=Profile%20views&color=0e75b6&style=flat-square" alt="surajbehera93" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajbehera93" alt="surajbehera93" /></a> </p>
 
 - 🔭 I’m currently working on **learning UI automation using Selenium and Python.**
 
-- 🌱 I’m currently learning **API Testing using Postman.**
+- 🌱 I’m currently learning **PyTest framework creation along with API Testing using Postman.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - 💬 Ask me about **Python,QA process.**
 
