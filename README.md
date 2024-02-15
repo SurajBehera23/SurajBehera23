@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajbehera93" alt="surajbehera93" /></a> </p>
 
-- 🔭 I’m currently working on **learning UI automation using Selenium and Python.**
+- 🔭 I’m currently working on **UI automation using Selenium and Python.**
 
 - 🌱 I’m currently learning **PyTest framework creation along with API Testing using Postman.**
 
