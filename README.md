@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Suraj</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate Software tester.</h3>
 
 - 🔭 I’m currently working on **UI automation using Selenium and Python.**
