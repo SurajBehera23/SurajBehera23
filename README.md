@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 💬 Ask me about **Python,QA process.**
+- 💬 Ask me about **Selenium, Python & QA process.**
 
 - 📫 How to reach me **surajkumarbeheraqa@gmail.com**
 
