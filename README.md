@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UI automation using Selenium and Python.**
 
-- 🌱 I’m currently learning **PyTest framework creation along with API Testing using Postman.**
+- 🌱 I’m currently learning **Playwright framework creation along with JavaScript.**
 
 - 💬 Ask me about **Selenium, Python & QA process.**
 
