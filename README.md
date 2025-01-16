@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate Software tester.</h3>
 
-- 🔭 I’m currently working on **UI automation using Selenium and Python.**
+- 🔭 I’m currently working on **UI automation using Playwright and Python.**
 
-- 🌱 I’m currently learning **Playwright framework creation along with JavaScript.**
+- 🌱 I’m currently learning **Playwright framework creation along with Python.**
 
 - 💬 Ask me about **Selenium, Python & QA process.**
 
